@@ -5,7 +5,7 @@ If you’re serious about becoming a game designer, then this course is the perf
 You’ll work on different design tools such as Unity3D, Blender, and Photoshop to gain comprehensive knowledge that will help you create your very own game assets. You’ll learn techniques such as modeling, texturing, animation, and rendering complex 3D models and scenes. This way, you’ll be able to work in game design, film, or software development by gaining an expert understanding of the Unity game engine.
 You’ll import and integrate game assets created in Blender into Unity. You’ll learn to design beautiful game levels using built-in tools of the Unity game engine. You’ll learn how to use lights to create a different mood for games. After finishing the level design, you’ll add your player to the game level. Just like all of our previous sections in this Mastering series, you’ll start off by learning the basics with fun project-based lessons, before moving on to more intermediate and advanced techniques.
 
-The code bundle for this video course is available at - https://github.com/PacktPublishing/-Game-Design-with-Unity-2019-V
+The code bundle for this video course is available at - https://github.com/PacktPublishing/-Game-Design-with-Unity-2019-V and https://drive.google.com/open?id=12G_t_Xstkt9V_iGY1YGWZ-h_970IjZF4
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
@@ -31,10 +31,9 @@ Blender<br/>
 Visual studio <br/>
 
 
-
 ## Related Products
- [Unity C# Scripting : Complete C# for Unity Game Development [Video]](https://www.packtpub.com/in/game-development/unity-c-scripting-complete-c-for-unity-game-development-video)
-
+ [Unity Game Development in 4 hours [Video]](https://www.packtpub.com/in/game-development/unity-game-development-4-hours-video)
+ 
  [Unity 2017 2D Game Development - Beginners Guide [Video]](https://www.packtpub.com/in/game-development/unity-2017-2d-game-development-beginners-guide-video)
 
  [Hands-On Augmented Reality with ARCore and Unity [Video]](https://www.packtpub.com/in/application-development/hands-augmented-reality-arcore-and-unity-video)
